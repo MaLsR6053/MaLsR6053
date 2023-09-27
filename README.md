@@ -1,4 +1,4 @@
-<h1>Hi there, I'm James!</h1> <h2><br/><a href="https://github.com/MaLsR6053/MaLsR6053">I create Home Labs</a>, you can follow <a href="https://www.linkedin.com/in/james-d-shank">my journey into Cybersecurity </a>, and I'm a <a href="https://jshank.substack.com/">Blogger</a></h2>
+<h1>Hi there, I'm James!<br/>I create <a href="https://github.com/MaLsR6053/MaLsR6053">Home Labs</a>; you can follow <a href="https://www.linkedin.com/in/james-d-shank">my journey into Cybersecurity</a>, and I'm a <a href="https://jshank.substack.com/">Blogger</a></h1>
 
 <h2>🔒 Cybersecurity Projects:</h2>
 
@@ -7,9 +7,9 @@
 - <b>Virtual SIEM Environment</b>
   - [SOC Analyst Skills]() <b><i>(Current Project)</i></b>
 - <b>PowerShell</b>
-  - [Insert Aweseomness Here]()
+  - [Awesomeness Incoming]()
 - <b>Python</b>
-  - [Insert Awesomeness Here]()
+  - [Awesomeness Incoming]()
  
 <h2>🖥️ IT/Networking Projects:</h2>
 
@@ -24,7 +24,13 @@
 - <b>Cybersecurity Threat Landscape</b>
   - [Shadow I.T.](https://github.com/MaLsR6053/Shadow-I.T)
 
+<h2>⚡ Fun facts:</h2>
 
+  - I'm a licensed Private Pilot, SEL
+  
+  - I'd like to start homebrewing beer again
+    
+  - I used to play the saxophone professionally
 
 
 <h2> 🤳 Connect with me:</h2>
