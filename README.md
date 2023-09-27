@@ -31,7 +31,7 @@
 
 [<img align="left" alt="JamesShank | LinkedIn" width="22px" src="https://github.com/MaLsR6053/Icons/blob/main/linkedin-color.svg" />][linkedin]
 [<img align="left" alt="JamesShank | Substack" width="22px" src="https://github.com/MaLsR6053/Icons/blob/main/substack-blue.svg" />][substack]
-[<img align="left" alt="JamesShank | ProtonMail" width="22px" src="https://github.com/MaLsR6053/Icons/blob/main/icons8-protonmail.svg" />][protonmail]
+[<img align="left" alt="JamesShank | ProtonMail" width="28px" src="https://github.com/MaLsR6053/Icons/blob/main/icons8-protonmail.svg" />][protonmail]
 
 
 [linkedin]: https://www.linkedin.com/in/james-d-shank
