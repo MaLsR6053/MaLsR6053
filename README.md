@@ -34,7 +34,7 @@
 
 <h2>My Resume:</h2>
 
-  - [Resume](https://github.com/MaLsR6053/Current-Resume)
+  - [Current as of 20230927](https://github.com/MaLsR6053/Current-Resume/blob/main/James%20Shank.pdf)
 
 
 <h2> 🤳 Connect with me:</h2>
