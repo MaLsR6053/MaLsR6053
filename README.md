@@ -21,8 +21,8 @@
  
 <h2>✍🏼 Writing Projects:</h2>
 
-- <b></b>
-  - [First Time Use and Installation on VMs](https://www.linkedin.com/pulse/active-directory-home-lab-james-shank/)
+- <b>Cybersecurity Threat Landscape</b>
+  - [Shadow I.T.](https://www.linkedin.com/pulse/active-directory-home-lab-james-shank/)
 
 
 
