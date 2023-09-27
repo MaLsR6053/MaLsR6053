@@ -33,7 +33,7 @@
   - I used to play the saxophone professionally
 
 <h2>My Resume:</h2>
-- [Resume](https://github.com/MaLsR6053/Current-Resume)
+  - [Resume](https://github.com/MaLsR6053/Current-Resume)
 
 
 <h2> 🤳 Connect with me:</h2>
