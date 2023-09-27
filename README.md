@@ -15,7 +15,7 @@
 
 - <b>Active Directory</b>
   - [First Time Use and Installation on VMs](https://www.linkedin.com/pulse/active-directory-home-lab-james-shank/)
-  - [Top 10 Help Desk Issues](https://jshank.substack.com/p/my-active-directory-help-desk-homelab?r=2rhxwp) <b><i>(Substack 10 part Series)</i></b>
+  - [Top 10 Help Desk Issues](https://jshank.substack.com/p/my-active-directory-help-desk-homelab?r=2rhxwp) <b><i>(Eventual Substack 10 part Series, part 1 is published)</i></b>
 - <b>SQL</b>
   - [SQL Queries Lab](https://www.linkedin.com/pulse/my-hands-on-sql-home-lab-james-shank/)
  
