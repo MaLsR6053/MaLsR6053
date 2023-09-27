@@ -1,4 +1,4 @@
-<h1>Hi there, I'm James! <br/><a href="https://github.com/MaLsR6053/MaLsR6053">Home Labs</a>, <a href="https://www.linkedin.com/in/james-d-shank">My Journey to Cybersecurity </a>, and <a href="https://jshank.substack.com/">Blogger</a></h1>
+<h1>Hi there, I'm James!</h1> <h2><br/><a href="https://github.com/MaLsR6053/MaLsR6053">I create Home Labs</a>, you can follow <a href="https://www.linkedin.com/in/james-d-shank">my journey into Cybersecurity </a>, and I'm a <a href="https://jshank.substack.com/">Blogger</a></h2>
 
 <h2>🔒 Cybersecurity Projects:</h2>
 
