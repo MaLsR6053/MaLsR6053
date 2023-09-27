@@ -29,12 +29,13 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JamesShank | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JamesShank | Substack" width="22px" src="https://github.com/MaLsR6053/Icons/blob/main/substack-blue.svg" />][substack]
+
 
 [linkedin]: https://www.linkedin.com/in/james-d-shank
+[substack]: https://jshank.substack.com
 
-[LinkedIn](https://www.linkedin.com/in/james-d-shank)
-[Substack](https://jshank.substack.com)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
