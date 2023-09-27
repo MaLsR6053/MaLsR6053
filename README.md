@@ -22,7 +22,7 @@
 <h2>✍🏼 Writing Projects:</h2>
 
 - <b>Cybersecurity Threat Landscape</b>
-  - [Shadow I.T.](https://www.linkedin.com/pulse/active-directory-home-lab-james-shank/)
+  - [Shadow I.T.](https://github.com/MaLsR6053/Shadow-I.T)
 
 
 
