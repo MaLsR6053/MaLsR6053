@@ -32,6 +32,7 @@
     
   - I used to play the saxophone professionally
 
+<h2> [My Resume]()</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
