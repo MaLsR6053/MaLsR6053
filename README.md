@@ -1,20 +1,24 @@
-<h1>Hi there, I'm James! <br/><a href="https://github.com/joshmadakor1">Home-Labs</a>, <a href="https://www.linkedin.com/in/james-d-shank">Cybersecurity Student</a>, and <a href="https://jshank.substack.com/">Substack Blogger</a></h1>
+<h1>Hi there, I'm James! <br/><a href="https://github.com/MaLsR6053/MaLsR6053">Home-Labs</a>, <a href="https://www.linkedin.com/in/james-d-shank">Cybersecurity Student</a>, and <a href="https://jshank.substack.com/">Substack Blogger</a></h1>
 
 <h2>👨‍💻🔒 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>ARP Spoofing Lab</b>
+  - [Using Metasploit, pFSense and Kali](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Virtual SIEM Environment</b>
+  - [SOC Analyst Skills](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Insert Aweseomness Here](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Insert Awesomeness Here](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
  
 <h2>👨‍💻🖥️ IT/Network Projects:</h2>
 
 - <b>Active Directory</b>
   - [First Time Use and Installation on VMs](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Top 10 Help Desk Issues](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>SQL</b>
+  - [SQL Queries Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 
 
