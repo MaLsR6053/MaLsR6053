@@ -7,9 +7,9 @@
 - <b>Virtual SIEM Environment</b>
   - [SOC Analyst Skills]() <b><i>(Current Project)</i></b>
 - <b>PowerShell</b>
-  - [Mad Libs](https://github.com/MaLsR6053/Mad-Libs)
-- <b>Python</b>
   - [Awesomeness Incoming]()
+- <b>Python</b>
+  - [Mad Libs](https://github.com/MaLsR6053/Mad-Libs)
  
 <h2>🖥️ IT/Networking Projects:</h2>
 
