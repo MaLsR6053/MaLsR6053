@@ -26,11 +26,11 @@
 
 <h2>⚡ Fun facts:</h2>
 
-  - I'm a licensed Private Pilot, SEL
+  - I'm a licensed <a href="https://pilotinstitute.com/what-is-a-private-pilot/">Private Pilot, SEL</a>
   
-  - I'd like to start homebrewing beer again
+  - I'd like to start <a href="https://www.homebrewersassociation.org/how-to-brew/">homebrewing beer</a> again
     
-  - I used to play the saxophone professionally
+  - I used to play the <a href="https://www.bands.army.mil/">saxophone professionally</a>
 
 <h2>My Resume:</h2>
 
