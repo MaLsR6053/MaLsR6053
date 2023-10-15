@@ -6,7 +6,7 @@
 - <b>Portswigger Web Security Academy Lab Writeups</b>
   - [Lab #1 Path Traversal (simple case)](https://github.com/MaLsR6053/Portswigger-Web-Security-Academy-Labs/blob/main/Portswigger%20Lab%20%231.md)
   - [Lab #2 Access Control](https://github.com/MaLsR6053/Portswigger-Web-Security-Academy-Labs/blob/main/Portswigger%20Lab%20%232.md)
-  - [Lab #3 User Role Controlled by Request Parameter](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/](https://github.com/MaLsR6053/Portswigger-Web-Security-Academy-Labs/blob/main/Portswigger%20Lab%20%233.md)
+  - [Lab #3 User Role Controlled by Request Parameter](https://github.com/MaLsR6053/Portswigger-Web-Security-Academy-Labs/blob/main/Portswigger%20Lab%20%233.md)
   - [Lab #4 Horizontal Privilege Escalation](https://github.com/MaLsR6053/Portswigger-Web-Security-Academy-Labs/blob/main/Portswigger%20Lab%20%234.md)
   - [Lab #5 User ID Controlled by Request Parameter with Password Disclosure](https://github.com/MaLsR6053/Portswigger-Web-Security-Academy-Labs/blob/main/Portswigger%20Lab%20%235.md)
 - <b>ARP Spoofing Lab</b>
