@@ -2,6 +2,13 @@
 
 <h2>🔒 Cybersecurity Projects:</h2>
 
+
+- <b>Portswigger Web Security Academy Lab Writeups</b>
+  - [Lab #1 Path Traversal (simple case)](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/)
+  - [Lab #2 Access Control](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/)
+  - [Lab #3 User Role Controlled by Request Parameter](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/)
+  - [Lab #4 Horizontal Privilege Escalation](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/)
+  - [Lab #5 User ID Controlled by Request Parameter with Password Disclosure](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/)
 - <b>ARP Spoofing Lab</b>
   - [Using Metasploit, pFSense and Kali](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/)
 - <b>Virtual SIEM Environment</b>
