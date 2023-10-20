@@ -3,7 +3,7 @@
 <h2>🔒 Cybersecurity Projects:</h2>
 
 
-- <b>Portswigger Web Security Academy Lab Writeups</b>
+- <b>Portswigger Web Security Academy Lab Writeups <i>(These are bare-bones markdown reports at the moment, but I do plan on using these to practice writing pentest reports with a legitimate template)</i> </b>
   - [Lab #1 Path Traversal (simple case)](https://github.com/MaLsR6053/Portswigger-Web-Security-Academy-Labs/blob/main/Portswigger%20Lab%20%231.md)
   - [Lab #2 Access Control](https://github.com/MaLsR6053/Portswigger-Web-Security-Academy-Labs/blob/main/Portswigger%20Lab%20%232.md)
   - [Lab #3 User Role Controlled by Request Parameter](https://github.com/MaLsR6053/Portswigger-Web-Security-Academy-Labs/blob/main/Portswigger%20Lab%20%233.md)
