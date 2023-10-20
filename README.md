@@ -9,6 +9,11 @@
   - [Lab #3 User Role Controlled by Request Parameter](https://github.com/MaLsR6053/Portswigger-Web-Security-Academy-Labs/blob/main/Portswigger%20Lab%20%233.md)
   - [Lab #4 Horizontal Privilege Escalation](https://github.com/MaLsR6053/Portswigger-Web-Security-Academy-Labs/blob/main/Portswigger%20Lab%20%234.md)
   - [Lab #5 User ID Controlled by Request Parameter with Password Disclosure](https://github.com/MaLsR6053/Portswigger-Web-Security-Academy-Labs/blob/main/Portswigger%20Lab%20%235.md)
+  - [Lab #6 Username enumeration via different responses](https://github.com/MaLsR6053/Portswigger-Web-Security-Academy-Labs/blob/main/Portswigger%20Lab%20%236.md)
+  - [Lab #7 Bypassing 2-Factor Auth](https://github.com/MaLsR6053/Portswigger-Web-Security-Academy-Labs/blob/main/Portswigger%20Lab%20%237.md)
+  - [Lab #8 Server Side Request Forgery](https://github.com/MaLsR6053/Portswigger-Web-Security-Academy-Labs/blob/main/Portswigger%20Lab%20%238.md)
+  - [Lab #9 Basic SSRF against another back-end system](https://github.com/MaLsR6053/Portswigger-Web-Security-Academy-Labs/blob/main/Portswigger%20Lab%20%239.md)
+
 - <b>ARP Spoofing Lab</b>
   - [Using Metasploit, pFSense and Kali](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/)
 - <b>Virtual SIEM Environment</b>
