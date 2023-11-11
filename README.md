@@ -22,6 +22,7 @@
   - [Awesomeness Incoming]()
 - <b>Python</b>
   - [Mad Libs](https://github.com/MaLsR6053/Mad-Libs)
+  - [Black Hat Python]
  
 <h2>🖥️ IT/Networking Projects:</h2>
 
