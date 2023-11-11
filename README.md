@@ -21,8 +21,11 @@
 - <b>PowerShell</b>
   - [Awesomeness Incoming]()
 - <b>Python</b>
-  - [Mad Libs](https://github.com/MaLsR6053/Mad-Libs)
-  - [Black Hat Python]
+  - <b>Mad Libs</b>
+      -[The Great Adventure](https://github.com/MaLsR6053/Mad-Libs)
+  - <b>Black Hat Python</b>
+      -[TCP Client]
+      -[UDP Client]
  
 <h2>🖥️ IT/Networking Projects:</h2>
 
