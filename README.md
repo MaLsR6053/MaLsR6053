@@ -24,8 +24,12 @@
   - <b>Mad Libs</b>
       -[The Great Adventure](https://github.com/MaLsR6053/Mad-Libs)
   - <b>Black Hat Python</b>
-      -[TCP Client]
-      -[UDP Client]
+      -[TCP Client](https://github.com/MaLsR6053/Python-Projects/blob/main/Python%20TCP%20Client.py)
+      -[UDP Client](https://github.com/MaLsR6053/Python-Projects/blob/main/Python%20UDP%20Client.py)
+
+  - <b>Bash Scripts</b>
+      -[File Rename Script](https://github.com/MaLsR6053/Bash-Scripts/blob/main/file_rename.sh)
+      -[Network Troubleshooter](https://github.com/MaLsR6053/Bash-Scripts/blob/main/network_troubleshooter.sh)
  
 <h2>🖥️ IT/Networking Projects:</h2>
 
