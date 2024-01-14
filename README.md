@@ -1,17 +1,18 @@
-<h1>Hello, I'm James! <br/><a href="https://www.linkedin.com/in/james-d-shank"</a> WGU Cybersecurity Student</a> 
+<h1>Welcome! Hello, I'm James, a<a href="https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html#transcriptPop"</a> WGU<a href="https://www.linkedin.com/in/james-d-shank"</a> Cybersecurity Student.</h1>
 
-<h2>🔒 Projects 🖥️</h2>
+<h2>🔒 Cybersecurity and Scripting Projects 🖥️</h2>
 
-- [ARP Spoofing](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/)
-- [SIEM]() <b><i>(Current Project)</i></b>
-- [File Integrity Monitoring]()
-- [Vulnerability Management]()
 - [Active Directory and PowerShell scripting](https://www.linkedin.com/pulse/active-directory-home-lab-james-shank/)
-- [SQL Queries Lab](https://www.linkedin.com/pulse/my-hands-on-sql-home-lab-james-shank/)
-- [Python Scripts]()
+- [ARP Spoofing](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/)
+- [File Integrity Monitoring](https://www.linkedin.com/pulse/file-integrity-monitoring-powershell-edition-pt-1-james-shank-3vpef/)
+  - [Part II](https://www.linkedin.com/pulse/file-integrity-monitoring-powershell-edition-pt-ii-james-shank-7n9hf/)
 - [PowerShell Scripts]()
- 
-<h2>✍🏼 Writing Projects:</h2>
+- [Python Scripts]()
+- [SIEM]() <b><i>(Current Project)</i></b>
+- [SQL Queries Lab](https://www.linkedin.com/pulse/my-hands-on-sql-home-lab-james-shank/)
+- [Vulnerability Management]()
+
+<h2>✍🏼 Writing Projects ✍🏼</h2>
 
 - [Shadow I.T.](https://github.com/MaLsR6053/Shadow-I.T)
 
