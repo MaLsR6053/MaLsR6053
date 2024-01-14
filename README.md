@@ -9,7 +9,7 @@
   - [SQL Queries Lab](https://www.linkedin.com/pulse/my-hands-on-sql-home-lab-james-shank/)
 - Penetration Tester
   - [ARP Spoofing](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/)
-  - [(Series) Portswigger BurpSuite Certified Practitioner Preparation]() <b><i>(TBD)</i></b>
+  - [(Series) Repo Page for Portswigger BurpSuite Certified Practitioner Preparation]() <b><i>(TBD)</i></b>
 - SOC Analyst
   - [SIEM: Elastic in the Cloud | Analyze and Interpret Logs and Alerts]() <b><i>(90% Complete)</i></b>
   - [SIEM: Elastic Self-Hosted | Analyze and Interpret Logs and Alerts]() <b><i>(Current Project)</i></b>
@@ -19,6 +19,8 @@
   - [Audit a System for Cyber Compliance]() <b><i>(Incoming Project)</i></b>
 - DFIR
   - [Analyze Network Packet Captures]() <b><i>(Incoming Project)</i></b>
+- 101Labs Security+
+  - [(Series) Repo Page for all 101 Labs]() <b><i>(TBD)</i></b>
 
 <h2>✍🏼 Writing Projects 📝</h2>
 
