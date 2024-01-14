@@ -2,25 +2,25 @@
 
 <h2>🔒 Labs / Projects 🔒</h2>
 
-- System Administration
+- <b>System Administration</b>
   - [Active Directory and PowerShell scripting](https://www.linkedin.com/pulse/active-directory-home-lab-james-shank/)
   - [File Integrity Monitoring Part I: Script In Action](https://www.linkedin.com/pulse/file-integrity-monitoring-powershell-edition-pt-1-james-shank-3vpef/)
   - [File Integrity Monitoring Part II: Script Explained](https://www.linkedin.com/pulse/file-integrity-monitoring-powershell-edition-pt-ii-james-shank-7n9hf/)
   - [SQL Queries Lab](https://www.linkedin.com/pulse/my-hands-on-sql-home-lab-james-shank/)
-- Penetration Tester
+- <b>Penetration Tester</b>
   - [ARP Spoofing](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/)
   - [(Series) Repo Page for Portswigger BurpSuite Certified Practitioner Preparation]() <b><i>(TBD)</i></b>
   - [Identify and Exploit Vulnerabilities on a Web Application]() <b><i>(Incoming Project)</i></b>
-- SOC Analyst
+- <b>SOC Analyst</b>
   - [SIEM: Elastic in the Cloud | Analyze and Interpret Logs and Alerts]() <b><i>(90% Complete)</i></b>
   - [SIEM: Elastic Self-Hosted | Analyze and Interpret Logs and Alerts]() <b><i>(Current Project)</i></b>
-- Vulnerability Management Analyst
+- <b>Vulnerability Management Analyst</b>
   - [Vulnerability Management with Nessus Essentials]() <b><i>(90% Complete)</i></b>
-- GRC Analyst
+- <b>GRC Analyst</b>
   - [Audit a System for Cyber Compliance]() <b><i>(Incoming Project)</i></b>
-- DFIR
+- <b>DFIR</b>
   - [Analyze Network Packet Captures]() <b><i>(Incoming Project)</i></b>
-- 101Labs Security+
+- <b>101Labs Security+</b>
   - [(Series) Repo Page for all 101 Labs]() <b><i>(TBD)</i></b>
 
 <h2>✍🏼 Writing Projects 📝</h2>
