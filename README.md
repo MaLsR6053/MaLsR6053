@@ -13,8 +13,7 @@
  
 <h2>✍🏼 Writing Projects:</h2>
 
-- <b>Cybersecurity Threat Landscape</b>
-  - [Shadow I.T.](https://github.com/MaLsR6053/Shadow-I.T)
+- [Shadow I.T.](https://github.com/MaLsR6053/Shadow-I.T)
 
 <h2>⚡ Fun facts:</h2>
 
