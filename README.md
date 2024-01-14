@@ -26,7 +26,7 @@
 
 <h2>📜 Certifications 📜</h2>
 
-- [CompTIA A+]()
+- [CompTIA A+](https://www.credly.com/badges/57cc7ab1-d05c-44a4-93cd-7c3978679dcd/public_url)
 
 <h2>👨🏼‍🎓 Education / Training 👨🏼‍🏫</h2>
 
