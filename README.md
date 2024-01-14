@@ -1,6 +1,6 @@
 <h1>Welcome! Hello, I'm James, a<a href="https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html#transcriptPop"</a> WGU<a href="https://www.linkedin.com/in/james-d-shank"</a> Cybersecurity Student.</h1>
 
-<h2>🔒 Cybersecurity and Scripting Projects 🖥️</h2>
+<h2>🔒 Cybersecurity Projects 🖥️</h2>
 
 - [Active Directory and PowerShell scripting](https://www.linkedin.com/pulse/active-directory-home-lab-james-shank/)
 - [ARP Spoofing](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/)
