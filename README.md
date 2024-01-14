@@ -19,7 +19,7 @@
 
 - [CompTIA A+]()
 
-<h2>👨🏼‍🎓 Education and Training 👨🏼‍🏫</h2>
+<h2>👨🏼‍🎓 Education / Training 👨🏼‍🏫</h2>
 
 - <b>Bachelor's In Cybersecurity and Information Assurance</b> <b><i>(May 2023 - In Progress)</i></b>
 
