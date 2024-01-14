@@ -32,6 +32,6 @@
 
 
 [linkedin]: https://www.linkedin.com/in/james-d-shank
-[protonmail]: mailto:jds_business@proton.me
+[protonmail]: mailto:james.david.shank@proton.me
 
 
