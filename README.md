@@ -32,7 +32,7 @@
 
 - <b>Bachelor's In Cybersecurity and Information Assurance</b> <b><i>(May 2023 - In Progress)</i></b>
 - <b>Zero to Mastery Academy: Web Security and Bug Bounty</b> [November 2023](https://www.linkedin.com/in/james-d-shank/details/education/1635550540989/single-media-viewer?type=IMAGE&profileId=ACoAAB4dA0IB_Ox87RKXoX7fTXbIf4_M_KWzQt8&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_education_details%3BwlT6mxOpQDGKszEZzjuAKQ%3D%3D)
-- [All Licenses and Certs Listed on LinkedIn](https://www.linkedin.com/in/james-d-shank/details/certifications?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAB4dA0IB_Ox87RKXoX7fTXbIf4_M_KWzQt8&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BGFQQfq4%2FRsaRTWQpNIb0ng%3D%3D)
+- [All 40 Licenses and Training Certs Listed on LinkedIn](https://www.linkedin.com/in/james-d-shank/details/certifications?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAB4dA0IB_Ox87RKXoX7fTXbIf4_M_KWzQt8&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BGFQQfq4%2FRsaRTWQpNIb0ng%3D%3D)
 
 <h2>⚡ Fun facts 🤩</h2>
 
