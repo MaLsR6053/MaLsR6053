@@ -15,6 +15,14 @@
 
 - [Shadow I.T.](https://github.com/MaLsR6053/Shadow-I.T)
 
+<h2>📜 Certifications 📜</h2>
+
+- [CompTIA A+]()
+
+<h2>👨🏽‍🎓  Education and Training 👨🏽‍🎓</h2>
+
+- <b>Bachelor's In Cybersecurity and Information Assurance</b> <b><i>(May 2023 - In Progress)</i></b>
+
 <h2>⚡ Fun facts:</h2>
 
   - I'm a licensed <a href="https://pilotinstitute.com/what-is-a-private-pilot/">Private Pilot, SEL</a>
