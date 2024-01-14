@@ -1,15 +1,24 @@
 <h1>Welcome! Hello, I'm James, a<a href="https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html#transcriptPop"</a> WGU<a href="https://www.linkedin.com/in/james-d-shank"</a> Cybersecurity Student.</h1>
 
-<h2>🔒 Cybersecurity Labs 🔒</h2>
+<h2>🔒 Labs / Projects 🔒</h2>
 
-- [Active Directory and PowerShell scripting](https://www.linkedin.com/pulse/active-directory-home-lab-james-shank/)
-- [ARP Spoofing](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/)
-- [File Integrity Monitoring Part I: Script In Action](https://www.linkedin.com/pulse/file-integrity-monitoring-powershell-edition-pt-1-james-shank-3vpef/)
-  - [Part II: The Script Explained](https://www.linkedin.com/pulse/file-integrity-monitoring-powershell-edition-pt-ii-james-shank-7n9hf/)
-- [SIEM: Elastic in the Cloud]() <b><i>(Current Project)</i></b>
+- System Administration
+  - [Active Directory and PowerShell scripting](https://www.linkedin.com/pulse/active-directory-home-lab-james-shank/)
+  - [File Integrity Monitoring Part I: Script In Action](https://www.linkedin.com/pulse/file-integrity-monitoring-powershell-edition-pt-1-james-shank-3vpef/)
+  - [File Integrity Monitoring Part II: Script Explained](https://www.linkedin.com/pulse/file-integrity-monitoring-powershell-edition-pt-ii-james-shank-7n9hf/)
+  - [SQL Queries Lab](https://www.linkedin.com/pulse/my-hands-on-sql-home-lab-james-shank/)
+- Penetration Tester
+  - [ARP Spoofing](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/)
+  - [(Series) Portswigger BurpSuite Certified Practitioner Preparation]()
+- SOC Analyst
+  - [SIEM: Elastic in the Cloud]() <b><i>(Current Project)</i></b>
   - [SIEM: Elastic Self-Hosted]() <b><i>(Current Project)</i></b>
-- [SQL Queries Lab](https://www.linkedin.com/pulse/my-hands-on-sql-home-lab-james-shank/)
-- [Vulnerability Management with Nessus Essentials]()
+- Vulnerability Management Analyst
+  - [Vulnerability Management with Nessus Essentials]() <b><i>(Incoming Project)</i></b>
+- GRC Analyst
+  - [Audit a System for Cyber Compliance]() <b><i>(Incoming Project)</i></b>
+- DFIR
+  - [Analyze Network Packet Captures]() <b><i>(Incoming Project)</i></b>
 
 <h2>✍🏼 Writing Projects 📝</h2>
 
