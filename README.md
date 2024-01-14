@@ -10,6 +10,7 @@
 - Penetration Tester
   - [ARP Spoofing](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/)
   - [(Series) Repo Page for Portswigger BurpSuite Certified Practitioner Preparation]() <b><i>(TBD)</i></b>
+  - [Identify and Exploit Vulnerabilities on a Web Application]() <b><i>(Incoming Project)</i></b>
 - SOC Analyst
   - [SIEM: Elastic in the Cloud | Analyze and Interpret Logs and Alerts]() <b><i>(90% Complete)</i></b>
   - [SIEM: Elastic Self-Hosted | Analyze and Interpret Logs and Alerts]() <b><i>(Current Project)</i></b>
