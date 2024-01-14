@@ -4,13 +4,12 @@
 
 - [Active Directory and PowerShell scripting](https://www.linkedin.com/pulse/active-directory-home-lab-james-shank/)
 - [ARP Spoofing](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/)
-- [File Integrity Monitoring](https://www.linkedin.com/pulse/file-integrity-monitoring-powershell-edition-pt-1-james-shank-3vpef/)
-  - [Part II](https://www.linkedin.com/pulse/file-integrity-monitoring-powershell-edition-pt-ii-james-shank-7n9hf/)
-- [PowerShell Scripts]()
-- [Python Scripts]()
-- [SIEM]() <b><i>(Current Project)</i></b>
+- [File Integrity Monitoring Part I: Script In Action](https://www.linkedin.com/pulse/file-integrity-monitoring-powershell-edition-pt-1-james-shank-3vpef/)
+  - [Part II: The Script Explained](https://www.linkedin.com/pulse/file-integrity-monitoring-powershell-edition-pt-ii-james-shank-7n9hf/)
+- [SIEM: Elastic in the Cloud]() <b><i>(Current Project)</i></b>
+  - [SIEM: Elastic Self-Hosted]() <b><i>(Current Project)</i></b>
 - [SQL Queries Lab](https://www.linkedin.com/pulse/my-hands-on-sql-home-lab-james-shank/)
-- [Vulnerability Management]()
+- [Vulnerability Management with Nessus Essentials]()
 
 <h2>✍🏼 Writing Projects ✍🏼</h2>
 
