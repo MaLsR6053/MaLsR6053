@@ -15,7 +15,7 @@
   - [SIEM: Elastic in the Cloud | Analyze and Interpret Logs and Alerts]() <b><i>(90% Complete)</i></b>
   - [SIEM: Elastic Self-Hosted | Analyze and Interpret Logs and Alerts]() <b><i>(Current Project)</i></b>
 - Vulnerability Management Analyst
-  - [Vulnerability Management with Nessus Essentials]() <b><i>(Incoming Project)</i></b>
+  - [Vulnerability Management with Nessus Essentials]() <b><i>(90% Complete)</i></b>
 - GRC Analyst
   - [Audit a System for Cyber Compliance]() <b><i>(Incoming Project)</i></b>
 - DFIR
