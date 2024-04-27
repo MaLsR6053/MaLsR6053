@@ -9,6 +9,7 @@
   - [SQL Queries Lab](https://www.linkedin.com/pulse/my-hands-on-sql-home-lab-james-shank/)
 - <b>Penetration Tester</b>
   - [ARP Spoofing](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/)
+<b>HackTheBox Penetration Test Reports</b>
   - [HTB Monitored Penetration Test Report - TR version 1](https://github.com/MaLsR6053/Pentest-Reports/blob/main/HTB_Monitored_202402_JS_TR-BB_JS.docx.pdf) 
 
 <h2>✍🏼 Writing Projects 📝</h2>
