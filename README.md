@@ -9,20 +9,7 @@
   - [SQL Queries Lab](https://www.linkedin.com/pulse/my-hands-on-sql-home-lab-james-shank/)
 - <b>Penetration Tester</b>
   - [ARP Spoofing](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/)
-  - [(Series) Repo Page for Portswigger BurpSuite Certified Practitioner Preparation]() <b><i>(TBD)</i></b>
-  - [Identify and Exploit Vulnerabilities on a Web Application]() <b><i>(Incoming Project)</i></b>
-  - [HTB Monitored Penetration Test Report - TR version 1]() 
-- <b>SOC Analyst</b>
-  - [SIEM: Elastic in the Cloud | Analyze and Interpret Logs and Alerts]() <b><i>(90% Complete)</i></b>
-  - [SIEM: Elastic Self-Hosted | Analyze and Interpret Logs and Alerts]() <b><i>(Current Project)</i></b>
-- <b>Vulnerability Management Analyst</b>
-  - [Vulnerability Management with Nessus Essentials]() <b><i>(90% Complete)</i></b>
-- <b>GRC Analyst</b>
-  - [Audit a System for Cyber Compliance]() <b><i>(Incoming Project)</i></b>
-- <b>DFIR</b>
-  - [Analyze Network Packet Captures]() <b><i>(Incoming Project)</i></b>
-- <b>101Labs Security+</b>
-  - [(Series) Repo Page for all 101 Labs]() <b><i>(TBD)</i></b>
+  - [HTB Monitored Penetration Test Report - TR version 1](https://github.com/MaLsR6053/Pentest-Reports/blob/main/HTB_Monitored_202402_JS_TR-BB_JS.docx.pdf) 
 
 <h2>✍🏼 Writing Projects 📝</h2>
 
