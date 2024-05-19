@@ -2,8 +2,12 @@
 
 <h2>🔒 Labs / Projects 🔒</h2>
 
-- <b>System Administration</b>
+- <b>Bash Scripts</b>
+  - [File Renaming Script](https://github.com/MaLsR6053/Bash-Scripts/blob/main/file_rename.sh)
   - [Debian Updater Script](https://github.com/MaLsR6053/Bash-Scripts/blob/main/update.sh)
+  - 
+
+- <b>System Administration</b>
   - [Active Directory and PowerShell scripting](https://www.linkedin.com/pulse/active-directory-home-lab-james-shank/)
   - [File Integrity Monitoring Part I: Script In Action](https://www.linkedin.com/pulse/file-integrity-monitoring-powershell-edition-pt-1-james-shank-3vpef/)
   - [File Integrity Monitoring Part II: Script Explained](https://www.linkedin.com/pulse/file-integrity-monitoring-powershell-edition-pt-ii-james-shank-7n9hf/)
