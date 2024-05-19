@@ -5,7 +5,7 @@
 - <b>Bash Scripts</b>
   - [File Renaming Script](https://github.com/MaLsR6053/Bash-Scripts/blob/main/file_rename.sh)
   - [Debian Updater Script](https://github.com/MaLsR6053/Bash-Scripts/blob/main/update.sh)
-  - 
+  - [Network Troubleshooting Helper Script](https://github.com/MaLsR6053/Bash-Scripts/blob/main/network_troubleshooter.sh)
 
 - <b>System Administration</b>
   - [Active Directory and PowerShell scripting](https://www.linkedin.com/pulse/active-directory-home-lab-james-shank/)
