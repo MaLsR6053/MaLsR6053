@@ -3,6 +3,7 @@
 <h2>🔒 Labs / Projects 🔒</h2>
 
 - <b>[Bash Scripts Main Page](https://github.com/MaLsR6053/Bash-Scripts/tree/main)</b>
+  - [Basic Portscanning Script](https://github.com/MaLsR6053/Bash-Scripts/blob/main/portscan_basic.sh)
   - [CTF Directory Creator Script](https://github.com/MaLsR6053/Bash-Scripts/blob/main/ctf_directory_creater.sh)
   - [File Renaming Script](https://github.com/MaLsR6053/Bash-Scripts/blob/main/file_rename.sh)
   - [Debian Updater Script](https://github.com/MaLsR6053/Bash-Scripts/blob/main/update.sh)
