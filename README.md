@@ -2,7 +2,7 @@
 
 <h2>🔒 Labs / Projects 🔒</h2>
 
-- <b>Bash Scripts</b>
+- <b>[Bash Scripts](https://github.com/MaLsR6053/Bash-Scripts/tree/main)</b>
   - [CTF Directory Creator Script](https://github.com/MaLsR6053/Bash-Scripts/blob/main/ctf_directory_creater.sh)
   - [File Renaming Script](https://github.com/MaLsR6053/Bash-Scripts/blob/main/file_rename.sh)
   - [Debian Updater Script](https://github.com/MaLsR6053/Bash-Scripts/blob/main/update.sh)
