@@ -9,7 +9,7 @@
   - [Debian Updater Script](https://github.com/MaLsR6053/Bash-Scripts/blob/main/update.sh)
   - [Network Troubleshooting Helper Script](https://github.com/MaLsR6053/Bash-Scripts/blob/main/network_troubleshooter.sh)
 
-- <b>Python Projects</b>
+- <b>[Python Projects Main Page](https://github.com/MaLsR6053/Python-Projects)</b>
   - [SQLi Password Brute-Force](https://github.com/MaLsR6053/Python-Projects/blob/main/sqli_lab_password_brute.py)
   - [UDP](https://github.com/MaLsR6053/Python-Projects/blob/main/Python%20UDP%20Client.py)
   - [TCP](https://github.com/MaLsR6053/Python-Projects/blob/main/Python%20TCP%20Client.py)
