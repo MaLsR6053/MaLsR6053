@@ -9,6 +9,11 @@
   - [Debian Updater Script](https://github.com/MaLsR6053/Bash-Scripts/blob/main/update.sh)
   - [Network Troubleshooting Helper Script](https://github.com/MaLsR6053/Bash-Scripts/blob/main/network_troubleshooter.sh)
 
+- <b>Python Projects</b>
+  - [SQLi Password Brute-Force](https://github.com/MaLsR6053/Python-Projects/blob/main/sqli_lab_password_brute.py)
+  - [UDP](https://github.com/MaLsR6053/Python-Projects/blob/main/Python%20UDP%20Client.py)
+  - [TCP](https://github.com/MaLsR6053/Python-Projects/blob/main/Python%20TCP%20Client.py)
+    
 - <b>System Administration</b>
   - [Active Directory and PowerShell scripting](https://www.linkedin.com/pulse/active-directory-home-lab-james-shank/)
   - [File Integrity Monitoring Part I: Script In Action](https://www.linkedin.com/pulse/file-integrity-monitoring-powershell-edition-pt-1-james-shank-3vpef/)
