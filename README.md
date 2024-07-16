@@ -30,6 +30,11 @@
   - [HTB Monitored](https://github.com/MaLsR6053/Pentest_Reports/blob/main/HTB_Monitored_202402_JS_TR-BB_JS.pdf)
   - [Syntex Dynamics](https://github.com/MaLsR6053/Pentest_Reports/blob/main/eJPT_Syntex_Dynamics_JS.pdf)
 - [Shadow I.T.](https://github.com/MaLsR6053/Shadow-I.T)
+- [Portswigger Blind SQL Injection with Conditional Responses](https://www.notion.so/truck-2-tech/Portswigger-Blind-SQL-Injection-with-Conditional-Responses-d5df74b250774ffdb9f65e1c0e2c3abb?pvs=4)
+- [File Integrity Monitoring with Powershell Part 1](https://www.notion.so/truck-2-tech/File-Integrity-Monitoring-with-Powershell-Part-1-e9b7619587294454a5df29640ee835b4?pvs=4)
+- [File Integrity Monitoring with Powershell Part 2](https://www.notion.so/truck-2-tech/File-Integrity-Monitoring-with-Powershell-Part-2-5c11fa9835924360bffa6a87075acd45?pvs=4)
+- [Web Application Front-End Vulnerabilities](https://www.notion.so/truck-2-tech/Web-Application-Front-End-Vulnerabilities-e18472c2eed94fb19a545a746f8008f4?pvs=4)
+- [Information Security, Access Control, and the Parkerian Hexad](https://www.notion.so/truck-2-tech/Information-Security-Access-Control-and-the-Parkerian-Hexad-oh-my-9cdb8279f37b4b0ba988fc3b52f57707?pvs=4)
 
 <h2>📜 Certifications 📜</h2>
 
