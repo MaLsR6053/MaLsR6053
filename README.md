@@ -22,11 +22,13 @@
 - <b>Penetration Tester</b>
   - [ARP Spoofing](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/)
   - [Portswigger - Web Security Academy](https://github.com/MaLsR6053/Portswigger/tree/main)
-- <b>HackTheBox Penetration Test Reports</b>
-  - [HTB Monitored Penetration Test Report - TR version 1](https://github.com/MaLsR6053/Pentest-Reports/blob/main/HTB_Monitored_202402_JS_TR-BB_JS.docx.pdf) 
+ 
 
 <h2>✍🏼 Writing Projects 📝</h2>
 
+- <b>Penetration Testing Reports</b>
+  - [HTB Monitored Penetration Test Report - TR version 1](https://github.com/MaLsR6053/Pentest_Reports/blob/main/HTB_Monitored_202402_JS_TR-BB_JS.pdf)
+  - [Syntex Dynamics](https://github.com/MaLsR6053/Pentest_Reports/blob/main/eJPT_Syntex_Dynamics_JS.pdf)
 - [Shadow I.T.](https://github.com/MaLsR6053/Shadow-I.T)
 
 <h2>📜 Certifications 📜</h2>
