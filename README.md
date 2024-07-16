@@ -27,7 +27,7 @@
 <h2>✍🏼 Writing Projects 📝</h2>
 
 - <b>Penetration Testing Reports</b>
-  - [HTB Monitored Penetration Test Report - TR version 1](https://github.com/MaLsR6053/Pentest_Reports/blob/main/HTB_Monitored_202402_JS_TR-BB_JS.pdf)
+  - [HTB Monitored](https://github.com/MaLsR6053/Pentest_Reports/blob/main/HTB_Monitored_202402_JS_TR-BB_JS.pdf)
   - [Syntex Dynamics](https://github.com/MaLsR6053/Pentest_Reports/blob/main/eJPT_Syntex_Dynamics_JS.pdf)
 - [Shadow I.T.](https://github.com/MaLsR6053/Shadow-I.T)
 
