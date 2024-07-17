@@ -29,6 +29,7 @@
 - <b>Penetration Testing Reports</b>
   - [HTB Monitored](https://github.com/MaLsR6053/Pentest_Reports/blob/main/HTB_Monitored_202402_JS_TR-BB_JS.pdf)
   - [Syntex Dynamics](https://github.com/MaLsR6053/Pentest_Reports/blob/main/eJPT_Syntex_Dynamics_JS.pdf)
+  - [Blue Technologies](https://github.com/MaLsR6053/Pentest_Reports/blob/main/Blue_Technologies_JS.pdf)
 - [Shadow I.T.](https://github.com/MaLsR6053/Shadow-I.T)
 - [Portswigger Blind SQL Injection with Conditional Responses](https://www.notion.so/truck-2-tech/Portswigger-Blind-SQL-Injection-with-Conditional-Responses-d5df74b250774ffdb9f65e1c0e2c3abb?pvs=4)
 - [File Integrity Monitoring with Powershell Part 1](https://www.notion.so/truck-2-tech/File-Integrity-Monitoring-with-Powershell-Part-1-e9b7619587294454a5df29640ee835b4?pvs=4)
