@@ -66,7 +66,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/james-d-shank
-[protonmail]: mailto:james.david.shank@proton.me
-[notion]: https://truck-2-tech.notion.site
+[protonmail]: mailto:james@truck-2-tech.com
+[notion]: https://truck-2-tech.com
 
 
