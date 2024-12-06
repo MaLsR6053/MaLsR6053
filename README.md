@@ -20,6 +20,7 @@
   - [File Integrity Monitoring Part II: Script Explained](https://www.linkedin.com/pulse/file-integrity-monitoring-powershell-edition-pt-ii-james-shank-7n9hf/)
   - [SQL Queries Lab](https://www.linkedin.com/pulse/my-hands-on-sql-home-lab-james-shank/)
 - <b>Penetration Tester</b>
+  - [Web App Vulnerabilities Project](https://github.com/MaLsR6053/Web_App_Vulnerabilities_Project)
   - [ARP Spoofing](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/)
   - [Portswigger - Web Security Academy](https://github.com/MaLsR6053/Portswigger/tree/main)
  
