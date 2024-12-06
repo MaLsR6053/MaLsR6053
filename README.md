@@ -51,6 +51,7 @@
 - <b>Zero to Mastery Academy: Web Security and Bug Bounty</b> [Completed November 2023](https://www.linkedin.com/in/james-d-shank/details/education/1635550540989/single-media-viewer?type=IMAGE&profileId=ACoAAB4dA0IB_Ox87RKXoX7fTXbIf4_M_KWzQt8&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_education_details%3BwlT6mxOpQDGKszEZzjuAKQ%3D%3D)
 - <b>TCM Academy Practical Ethical Hacker Course</b> [Completed July 2024](https://github.com/MaLsR6053/Certifications/blob/main/certificate-of-completion-for-practical-ethical-hacking-the-complete-course.pdf)
 - <b>INE eJPT</b> [Completed July 2024](https://github.com/MaLsR6053/Certifications/blob/main/James%20Shank%20-%20eJPT.pdf)
+- [My full training log on my resume](https://truck-2-tech.com/wp-content/uploads/2024/12/James_Shank_VisualCV_Resume.pdf)
 
 <h2>⚡ Fun facts 🤩</h2>
 
