@@ -3,7 +3,7 @@
 <h2>🔒 Labs / Projects 🔒</h2>
 
 - <b>[Bash Scripts Main Page](https://github.com/MaLsR6053/Bash-Scripts/tree/main)</b>
-  - [Basic Portscanning Script](https://github.com/MaLsR6053/Bash-Scripts/blob/main/portscan_basic.sh)
+  - [Portscanning Script](https://github.com/MaLsR6053/Bash-Scripts/blob/main/portscan_basic.sh)
   - [CTF Directory Creator Script](https://github.com/MaLsR6053/Bash-Scripts/blob/main/ctf_directory_creater.sh)
   - [File Renaming Script](https://github.com/MaLsR6053/Bash-Scripts/blob/main/file_rename.sh)
   - [Debian Updater Script](https://github.com/MaLsR6053/Bash-Scripts/blob/main/update.sh)
@@ -22,7 +22,6 @@
 - <b>Penetration Tester</b>
   - [Web App Vulnerabilities Project](https://github.com/MaLsR6053/Web_App_Vulnerabilities_Project)
   - [ARP Spoofing](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/)
-  - [Portswigger - Web Security Academy](https://github.com/MaLsR6053/Portswigger/tree/main)
  
 
 <h2>✍🏼 Writing Projects 📝</h2>
@@ -31,18 +30,12 @@
   - [HTB Monitored](https://github.com/MaLsR6053/Pentest_Reports/blob/main/HTB_Monitored_202402_JS_TR-BB_JS.pdf)
   - [Syntex Dynamics](https://github.com/MaLsR6053/Pentest_Reports/blob/main/eJPT_Syntex_Dynamics_JS.pdf)
   - [Blue Technologies](https://github.com/MaLsR6053/Pentest_Reports/blob/main/Blue_Technologies_JS.pdf)
-- <b>THM Advent of Cyber 2024</b>
-  - [Writeups of each day on my website](https://truck-2-tech.com/blog/)
-- [Shadow I.T.](https://github.com/MaLsR6053/Shadow-I.T)
-- [Portswigger Blind SQL Injection with Conditional Responses](https://www.notion.so/truck-2-tech/Portswigger-Blind-SQL-Injection-with-Conditional-Responses-d5df74b250774ffdb9f65e1c0e2c3abb?pvs=4)
-- [File Integrity Monitoring with Powershell Part 1](https://www.notion.so/truck-2-tech/File-Integrity-Monitoring-with-Powershell-Part-1-e9b7619587294454a5df29640ee835b4?pvs=4)
-- [File Integrity Monitoring with Powershell Part 2](https://www.notion.so/truck-2-tech/File-Integrity-Monitoring-with-Powershell-Part-2-5c11fa9835924360bffa6a87075acd45?pvs=4)
-- [Web Application Front-End Vulnerabilities](https://www.notion.so/truck-2-tech/Web-Application-Front-End-Vulnerabilities-e18472c2eed94fb19a545a746f8008f4?pvs=4)
-- [Information Security, Access Control, and the Parkerian Hexad](https://www.notion.so/truck-2-tech/Information-Security-Access-Control-and-the-Parkerian-Hexad-oh-my-9cdb8279f37b4b0ba988fc3b52f57707?pvs=4)
+
 
 <h2>📜 Certifications 📜</h2>
 
 - [CompTIA A+](https://www.credly.com/badges/57cc7ab1-d05c-44a4-93cd-7c3978679dcd/public_url)
+- [CompTIA Net+]([https://www.credly.com/badges/57cc7ab1-d05c-44a4-93cd-7c3978679dcd/public_url](https://www.credly.com/badges/0073b55c-1b00-413e-ba88-955a940b1809/public_url))
 - [eJPTv2](https://github.com/MaLsR6053/Certifications/blob/main/James%20Shank%20-%20eJPT.pdf)
 
 <h2>👨🏼‍🎓 Education / Training 👨🏼‍🏫</h2>
@@ -51,7 +44,7 @@
 - <b>Zero to Mastery Academy: Web Security and Bug Bounty</b> [Completed November 2023](https://www.linkedin.com/in/james-d-shank/details/education/1635550540989/single-media-viewer?type=IMAGE&profileId=ACoAAB4dA0IB_Ox87RKXoX7fTXbIf4_M_KWzQt8&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_education_details%3BwlT6mxOpQDGKszEZzjuAKQ%3D%3D)
 - <b>TCM Academy Practical Ethical Hacker Course</b> [Completed July 2024](https://github.com/MaLsR6053/Certifications/blob/main/certificate-of-completion-for-practical-ethical-hacking-the-complete-course.pdf)
 - <b>INE eJPT</b> [Completed July 2024](https://github.com/MaLsR6053/Certifications/blob/main/James%20Shank%20-%20eJPT.pdf)
-- [My full training log on my resume](https://truck-2-tech.com/wp-content/uploads/2024/12/James_Shank_VisualCV_Resume.pdf)
+  
 
 <h2>⚡ Fun facts 🤩</h2>
 
@@ -62,15 +55,5 @@
   - I used to play the <a href="https://www.bands.army.mil/">saxophone professionally</a>
 
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JamesShank | LinkedIn" width="40px" src="https://github.com/MaLsR6053/Icons/blob/main/linkedin-color.svg" />][linkedin]
-[<img align="left" alt="JamesShank | ProtonMail" width="40px" src="https://github.com/MaLsR6053/Icons/blob/main/icons8-protonmail.svg" />][protonmail]
-[<img align="left" alt="JamesShank | Notion Website" width="40px" src="https://github.com/MaLsR6053/Icons/blob/main/Notion-logo.svg.png" />][notion]
-
-
-[linkedin]: https://www.linkedin.com/in/james-d-shank
-[protonmail]: mailto:james@truck-2-tech.com
-[notion]: https://truck-2-tech.com
 
 
