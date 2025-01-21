@@ -23,7 +23,8 @@
   - [Web App Vulnerabilities Project](https://github.com/MaLsR6053/Web_App_Vulnerabilities_Project)
   - [ARP Spoofing](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/)
   - [Active Directory LLMNR Poisoning](https://www.linkedin.com/feed/update/urn:li:activity:7285622216073867265/)
-  - [Active Directory SMB Relay]()
+  - [Active Directory SMB Relay](https://www.linkedin.com/pulse/active-directory-attack-smb-relay-james-shank-pyd8c/?trackingId=84T%2FyUinS0iqsW%2Fh5WHOLA%3D%3D)
+  - [OAuth 2.0 Overview](https://www.linkedin.com/pulse/what-oauth-grant-types-james-shank-5cxgc/?trackingId=0D2BzuQiQpmf%2FpBFvIF7lw%3D%3D)
  
 
 <h2>✍🏼 Writing Projects 📝</h2>
