@@ -12,7 +12,7 @@
 - <b>[Python Projects Main Page](https://github.com/MaLsR6053/Python-Projects)</b>
   - [SQLi Password Brute-Force](https://github.com/MaLsR6053/Python-Projects/blob/main/sqli_lab_password_brute.py)
   - [UDP Client README](https://github.com/MaLsR6053/Python-Projects/blob/main/UPD%20Client%20README.md) | [UDP Socket Client](https://github.com/MaLsR6053/Python-Projects/blob/main/Python%20UDP%20Client.py)
-  - [TCP Client README]() | [TCP Socket Client](https://github.com/MaLsR6053/Python-Projects/blob/main/Python%20TCP%20Client.py)
+  - [TCP Client README](https://github.com/MaLsR6053/Python-Projects/blob/main/TCP%20Client%20README.md) | [TCP Socket Client](https://github.com/MaLsR6053/Python-Projects/blob/main/Python%20TCP%20Client.py)
     
 - <b>System Administration</b>
   - [Active Directory and PowerShell scripting](https://www.linkedin.com/pulse/active-directory-home-lab-james-shank/)
