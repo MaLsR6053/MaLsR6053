@@ -22,6 +22,8 @@
 - <b>Penetration Tester</b>
   - [Web App Vulnerabilities Project](https://github.com/MaLsR6053/Web_App_Vulnerabilities_Project)
   - [ARP Spoofing](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/)
+  - [Active Directory LLMNR Poisoning](https://www.linkedin.com/feed/update/urn:li:activity:7285622216073867265/)
+  - [Active Directory SMB Relay]()
  
 
 <h2>✍🏼 Writing Projects 📝</h2>
