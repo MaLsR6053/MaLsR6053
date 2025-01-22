@@ -38,7 +38,7 @@
 <h2>📜 Certifications 📜</h2>
 
 - [CompTIA A+](https://www.credly.com/badges/57cc7ab1-d05c-44a4-93cd-7c3978679dcd/public_url)
-- [CompTIA Net+]([https://www.credly.com/badges/57cc7ab1-d05c-44a4-93cd-7c3978679dcd/public_url](https://www.credly.com/badges/0073b55c-1b00-413e-ba88-955a940b1809/public_url))
+- [CompTIA Net+](https://www.credly.com/badges/57cc7ab1-d05c-44a4-93cd-7c3978679dcd/public_url)
 - [eJPTv2](https://github.com/MaLsR6053/Certifications/blob/main/James%20Shank%20-%20eJPT.pdf)
 
 <h2>👨🏼‍🎓 Education / Training 👨🏼‍🏫</h2>
