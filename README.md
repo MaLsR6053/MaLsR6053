@@ -33,9 +33,8 @@
   - [OAuth 2.0 Overview](https://www.linkedin.com/pulse/what-oauth-grant-types-james-shank-5cxgc/?trackingId=0D2BzuQiQpmf%2FpBFvIF7lw%3D%3D)
  
 
-<h2>✍🏼 Writing Projects 📝</h2>
+<h2>✍🏼 Sample Penetration Testing Reports📝</h2>
 
-- <b>Penetration Testing Reports</b>
   - [HTB Monitored](https://github.com/MaLsR6053/Pentest_Reports/blob/main/HTB_Monitored_202402_JS_TR-BB_JS.pdf)
   - [Syntex Dynamics](https://github.com/MaLsR6053/Pentest_Reports/blob/main/eJPT_Syntex_Dynamics_JS.pdf)
   - [Blue Technologies](https://github.com/MaLsR6053/Pentest_Reports/blob/main/Blue_Technologies_JS.pdf)
