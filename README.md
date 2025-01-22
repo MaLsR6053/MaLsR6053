@@ -13,6 +13,12 @@
   - [SQLi Password Brute-Force](https://github.com/MaLsR6053/Python-Projects/blob/main/sqli_lab_password_brute.py)
   - [UDP Client README](https://github.com/MaLsR6053/Python-Projects/blob/main/UPD%20Client%20README.md) | [UDP Socket Client](https://github.com/MaLsR6053/Python-Projects/blob/main/Python%20UDP%20Client.py)
   - [TCP Client README](https://github.com/MaLsR6053/Python-Projects/blob/main/TCP%20Client%20README.md) | [TCP Socket Client](https://github.com/MaLsR6053/Python-Projects/blob/main/Python%20TCP%20Client.py)
+  - [Brute Force Web Login](https://github.com/MaLsR6053/Python-Projects/blob/main/Brute-Force-Web-Login.py) 
+  - [Directory Bruteforce](https://github.com/MaLsR6053/Python-Projects/blob/main/MaLsR-Dirb-Bruteforce.py) 
+  - [Subdomain Enumeration](https://github.com/MaLsR6053/Python-Projects/blob/main/MaLsR-sub-enum.py) 
+  - [SSL/TLS Vulnerability Check](https://github.com/MaLsR6053/Python-Projects/blob/main/MaLsR-SSL-TLS-vuln-checker.py) 
+  - [Payload Encoder for XSS](https://github.com/MaLsR6053/Python-Projects/blob/main/Payload-Encoder-XSS.py) 
+
     
 - <b>System Administration</b>
   - [Active Directory and PowerShell scripting](https://www.linkedin.com/pulse/active-directory-home-lab-james-shank/)
