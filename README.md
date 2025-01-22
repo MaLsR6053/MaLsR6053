@@ -11,8 +11,8 @@
 
 - <b>[Python Projects Main Page](https://github.com/MaLsR6053/Python-Projects)</b>
   - [SQLi Password Brute-Force](https://github.com/MaLsR6053/Python-Projects/blob/main/sqli_lab_password_brute.py)
-  - <strong>[README](https://github.com/MaLsR6053/Python-Projects/blob/main/UPD%20Client%20README.md)</strong> | [UDP Socket Client](https://github.com/MaLsR6053/Python-Projects/blob/main/Python%20UDP%20Client.py)
-  - <strong>[README](https://github.com/MaLsR6053/Python-Projects/blob/main/TCP%20Client%20README.md)</strong> | [TCP Socket Client](https://github.com/MaLsR6053/Python-Projects/blob/main/Python%20TCP%20Client.py)
+  - [UDP Socket Client](https://github.com/MaLsR6053/Python-Projects/blob/main/UPD%20Client%20README.md)
+  - [TCP Socket Client](https://github.com/MaLsR6053/Python-Projects/blob/main/TCP%20Client%20README.md)
   - [Brute Force Web Login](https://github.com/MaLsR6053/Python-Projects/blob/main/Brute-Force-Web-Login.py) 
   - [Directory Bruteforce](https://github.com/MaLsR6053/Python-Projects/blob/main/MaLsR-Dirb-Bruteforce.py) 
   - [Subdomain Enumeration](https://github.com/MaLsR6053/Python-Projects/blob/main/MaLsR-sub-enum.py) 
