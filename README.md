@@ -26,7 +26,7 @@
   - [File Integrity Monitoring Part II: Script Explained](https://www.linkedin.com/pulse/file-integrity-monitoring-powershell-edition-pt-ii-james-shank-7n9hf/)
   - [SQL Queries Lab](https://www.linkedin.com/pulse/my-hands-on-sql-home-lab-james-shank/)
 - <b>Penetration Tester</b>
-  - [Web App Vulnerabilities Project](https://github.com/MaLsR6053/Web_App_Vulnerabilities_Project)
+  - [Web App Vulnerabilities Project](https://github.com/MaLsR6053/Web_App_Vulnerabilities_Project) | <strong>[RELEASE PAGE](https://github.com/MaLsR6053/Web_App_Vulnerabilities_Project/releases)</strong>
   - [ARP Spoofing](https://www.linkedin.com/pulse/arp-spoofing-lab-james-shank/)
   - [Active Directory LLMNR Poisoning](https://www.linkedin.com/feed/update/urn:li:activity:7285622216073867265/)
   - [Active Directory SMB Relay](https://www.linkedin.com/pulse/active-directory-attack-smb-relay-james-shank-pyd8c/?trackingId=84T%2FyUinS0iqsW%2Fh5WHOLA%3D%3D)
