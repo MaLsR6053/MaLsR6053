@@ -45,6 +45,9 @@
 
 - [CompTIA A+](https://www.credly.com/badges/57cc7ab1-d05c-44a4-93cd-7c3978679dcd/public_url)
 - [CompTIA Net+](https://www.credly.com/badges/57cc7ab1-d05c-44a4-93cd-7c3978679dcd/public_url)
+- [CompTIA Sec+](https://www.credly.com/earner/earned/badge/ac0b98db-2ad1-4094-8686-f24a574215df)
+- [CompTIA CIOS](https://www.credly.com/earner/earned/badge/580aad90-e3aa-4a64-9fa6-84595ea53a19)
+- [CompTIA CSIS](https://www.credly.com/badges/4cc11ee0-9dd4-4545-800b-d6cfb5c3ccfb)
 - [eJPTv2](https://github.com/MaLsR6053/Certifications/blob/main/James%20Shank%20-%20eJPT.pdf)
 
 <h2>👨🏼‍🎓 Education / Training 👨🏼‍🏫</h2>
