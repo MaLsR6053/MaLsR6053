@@ -1,4 +1,4 @@
-<h1>Welcome! Hello, I'm James, a<a href="https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html#transcriptPop"</a> WGU<a href="https://www.linkedin.com/in/james-d-shank"</a> Cybersecurity Student.</h1>
+<h1>Welcome! Hello, I'm James, a WGU Cybersecurity Student and a Tier 2 Support Technician.</h1>
 
 <h2>Labs / Projects</h2>
 
