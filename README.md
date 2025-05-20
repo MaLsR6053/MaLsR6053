@@ -1,4 +1,4 @@
-<h1>Welcome! Hello, I'm James, a WGU Cybersecurity Student and a Tier 2 Support Technician.</h1>
+<h1>Welcome to my GitHub. I'm James, a WGU Cybersecurity Student and a Tier 2 Support Technician.</h1>
 
 <h2>Labs / Projects</h2>
 
