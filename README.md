@@ -1,8 +1,6 @@
-<h1>Welcome to my GitHub. I'm James, a WGU Cybersecurity Student and a Tier 2 Support Technician.</h1>
+<h1><p><code>malsr6053@github:~$ <a href="https://github.com/MaLsR6053/whoami" target="_blank">whoami</a></code></p></h1>
 
-<h2><p><code>malsr6053@github:~$ <a href="https://your-link.com" target="_blank">whoami</a></code></p></h2>
-
-<h2>Labs / Projects</h2>
+<h3><p><code>malsr6053@github:~$ ls labs_projects</code></p></h3>
 
 - <b>[Bash Scripts Main Page](https://github.com/MaLsR6053/Bash-Scripts/tree/main)</b>
 
@@ -23,14 +21,14 @@
   - [OAuth 2.0 Overview](https://www.linkedin.com/pulse/what-oauth-grant-types-james-shank-5cxgc/?trackingId=0D2BzuQiQpmf%2FpBFvIF7lw%3D%3D)
  
 
-<h2>Sample Penetration Testing Reports</h2>
+<h3><p><code>malsr6053@github:~$ ls sample_penetration_testing_reports</code></p></h3>
 
   - [HTB Monitored](https://github.com/MaLsR6053/Pentest_Reports/blob/main/HTB_Monitored_202402_JS_TR-BB_JS.pdf)
   - [Syntex Dynamics](https://github.com/MaLsR6053/Pentest_Reports/blob/main/eJPT_Syntex_Dynamics_JS.pdf)
   - [Blue Technologies](https://github.com/MaLsR6053/Pentest_Reports/blob/main/Blue_Technologies_JS.pdf)
 
 
-<h2>Certifications</h2>
+<h3><p><code>malsr6053@github:~$ ls certifications</code></p></h3>
 <table>
     <tr>
         <td><a href="https://www.credly.com/badges/57cc7ab1-d05c-44a4-93cd-7c3978679dcd/public_url" target="_blank">CompTIA A+</a></td>
@@ -46,7 +44,7 @@
     </tr>
 </table>
 
-<h2>Education / Training</h2>
+<h3><p><code>malsr6053@github:~$ ls education_and_training</code></p></h3>
 
 - <b>Bachelor's In Cybersecurity and Information Assurance: </b> <i>(May 2023 - In Progress)</i>
 - <b>Offensive Security Pentesting With Kali (PWK) PEN-200: </b> <i>(In Progress)</i>
@@ -58,7 +56,7 @@
 
   
 
-<h2>Fun facts</h2>
+<h3><p><code>malsr6053@github:~$ ls fun_facts</code></p></h3>
 
   - I'm a licensed <a href="https://pilotinstitute.com/what-is-a-private-pilot/">Private Pilot, SEL</a>
     
