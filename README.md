@@ -1,5 +1,7 @@
 <h1>Welcome to my GitHub. I'm James, a WGU Cybersecurity Student and a Tier 2 Support Technician.</h1>
 
+<h2>root# whoami</h2>
+
 <h2>Labs / Projects</h2>
 
 - <b>[Bash Scripts Main Page](https://github.com/MaLsR6053/Bash-Scripts/tree/main)</b>
@@ -29,13 +31,20 @@
 
 
 <h2>Certifications</h2>
-
-- [CompTIA A+](https://www.credly.com/badges/57cc7ab1-d05c-44a4-93cd-7c3978679dcd/public_url)
-- [CompTIA Net+](https://www.credly.com/badges/57cc7ab1-d05c-44a4-93cd-7c3978679dcd/public_url)
-- [CompTIA Sec+](https://www.credly.com/earner/earned/badge/ac0b98db-2ad1-4094-8686-f24a574215df)
-- [CompTIA CIOS](https://www.credly.com/earner/earned/badge/580aad90-e3aa-4a64-9fa6-84595ea53a19)
-- [CompTIA CSIS](https://www.credly.com/badges/4cc11ee0-9dd4-4545-800b-d6cfb5c3ccfb)
-- [eJPTv2](https://github.com/MaLsR6053/Certifications/blob/main/James%20Shank%20-%20eJPT.pdf)
+<table>
+    <tr>
+        <td><a href="https://www.credly.com/badges/57cc7ab1-d05c-44a4-93cd-7c3978679dcd/public_url" target="_blank">CompTIA A+</a></td>
+        <td><a href="https://www.credly.com/badges/57cc7ab1-d05c-44a4-93cd-7c3978679dcd/public_url" target="_blank">CompTIA Net+</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://www.credly.com/earner/earned/badge/ac0b98db-2ad1-4094-8686-f24a574215df" target="_blank">CompTIA Sec+</a></td>
+        <td><a href="https://www.credly.com/earner/earned/badge/580aad90-e3aa-4a64-9fa6-84595ea53a19" target="_blank">CompTIA CIOS</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://www.credly.com/badges/4cc11ee0-9dd4-4545-800b-d6cfb5c3ccfb" target="_blank">CompTIA CSIS</a></td>
+        <td><a href="https://github.com/MaLsR6053/Certifications/blob/main/James%20Shank%20-%20eJPT.pdf" target="_blank">eJPT v2</a></td>
+    </tr>
+</table>
 
 <h2>Education / Training</h2>
 
@@ -52,8 +61,6 @@
 <h2>Fun facts</h2>
 
   - I'm a licensed <a href="https://pilotinstitute.com/what-is-a-private-pilot/">Private Pilot, SEL</a>
-  
-  - I'd like to start <a href="https://www.homebrewersassociation.org/how-to-brew/">homebrewing beer</a> again
     
   - I used to play the <a href="https://www.bands.army.mil/">saxophone professionally</a>
 
