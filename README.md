@@ -1,6 +1,6 @@
 <h1>Welcome to my GitHub. I'm James, a WGU Cybersecurity Student and a Tier 2 Support Technician.</h1>
 
-<h2>root# whoami</h2>
+<h2><p><code>malsr6053@github:~$ <a href="https://your-link.com" target="_blank">whoami</a></code></p></h2>
 
 <h2>Labs / Projects</h2>
 
